@@ -23,3 +23,5 @@ Track():
   for loop for the horse #:
     grab rng move(): (should return a true or false)
     
+documentation link: https://docs.google.com/document/d/14tTkYTBs_3aCacS4eyJx4BR6ouKCvBAFsEloQoP18S0/edit?tab=t.0
+    
