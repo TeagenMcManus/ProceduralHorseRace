@@ -16,8 +16,6 @@ int main() {
     int horses[amountHorse] = {0};
 
     while (true) {
-        system("cls"); 
-
         advance(horses);
 
         for (int i = 0; i < amountHorse; i++) {
